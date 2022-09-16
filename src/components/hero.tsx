@@ -24,7 +24,7 @@ const Hero = () => {
 
         <Typography variant="subtitle1" style={{ marginBottom: 30 }}>
           We provide progressive, and affordable healthcare, accessible on
-          mobile and online for everyone
+          mobile and online for everyone.
         </Typography>
         <Button variant="contained" color="primary" size="large">
           Consult Today
